@@ -93,3 +93,12 @@ Its always about Karina fr fr lol :3—
 it fuels my motivation like coffee + Karina 💖
 
 ---
+
+### <p align="center">🩷 IU 🩷</p>
+<p align ="Center">Cute IU Ascii Art <img src="./ascii-art.png"/></a>
+</p>
+
+---
+
+### ☕ Thanks for stopping by my profile, I love Github man! 
+
