@@ -69,7 +69,7 @@
 ---
 
 ### 💬 About Me
-sh
+
 👋 Yo! I’m Tohbuu
 📚 Studying Java & front-end tools
 🎮 Passionate about anime, K-pop, Marvel/DC, and GameDev
@@ -84,7 +84,7 @@ sh
 
 ---
 
-<p align="center"> <img src="./images/terminal.gif" width="500" alt="terminal aesthetic"/> </p>
+<p align="center"> <img src="./images/matrix-green.gif" width="500" alt="terminal aesthetic"/> </p>
 
 ---
 
