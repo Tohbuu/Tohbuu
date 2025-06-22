@@ -24,6 +24,22 @@
 
 ---
 
+### 🎧 Currently Vibing To
+
+<p align="center">
+  <img src="https://media.tenor.com/9g9m9AnHGcQAAAAC/karina-aespa.gif" alt="Karina Kittyheart" width="200"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://media.tenor.com/YtNba5vht0IAAAAC/aespa-karina-monjjunirawr.gif" alt="Karina Shocked" width="200"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=FFB3E6&center=true&vCenter=true&width=500&lines=Indie+J-Pop+%7C+Lo-fi+Beats+%7C+K-pop+Vibes+Only" />
+</p>
+
+> *Sometimes cute, sometimes shocked. Always vibing.*
+
+---
+
 ### 📊 GitHub Stats
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=Tohbuu&show_icons=true&theme=tokyonight" height="165" />
@@ -35,14 +51,9 @@
 
 ---
 
-### 🎧 Currently Vibing To
-> *Indie J-Pop, lo-fi Korean beats, with a sprinkle of English soul tracks*
-
----
-
 ### 🧩 Connect With Me
 <p>
-  <!-- You can add real links here later -->
+  <!-- Placeholder: add links later -->
   <img src="https://img.shields.io/badge/Socials-Who%20Knows-informational?style=for-the-badge&logo=question&logoColor=white" />
 </p>
 
