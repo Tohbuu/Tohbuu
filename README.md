@@ -4,6 +4,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&multiline=true&width=435&lines=Welcome+to+my+GitHub!;Anime+fan,+dev-in-progress,+AI-powered+learner." alt="Typing SVG" />
 </p>
 
+
+
+
+
+
 ---
 
 ### 🌟 About Me
@@ -27,9 +32,9 @@
 ### 🎧 Currently Vibing To
 
 <p align="center">
-  <img src="https://media.tenor.com/9g9m9AnHGcQAAAAC/karina-aespa.gif" alt="Karina Kittyheart" width="200"/>
+  <img src="/images/karina-aespa.gif" width="200"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://media.tenor.com/YtNba5vht0IAAAAC/aespa-karina-monjjunirawr.gif" alt="Karina Shocked" width="200"/>
+  <img src="/images/aespa-karina-monjjunirawr.gif" alt="Karina Shocked" width="200"/>
 </p>
 
 <p align="center">
