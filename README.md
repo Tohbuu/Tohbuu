@@ -1,7 +1,7 @@
-<h1 align="center">🌸 Tohbuu's Cyber Terminal 🌸</h1>
+<h1 align="center">🌸 Welcome to my Profile 🌸</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FFB3E6&center=true&vCenter=true&width=500&lines=AI-assisted+Code+Surfer;Karina+Enjoyer.;Learning+Java+%7C+Dreaming+in+Pixels;GameDev+Collab%3F+Let's+Build." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FFB3E6&center=true&vCenter=true&width=500&lines=I+Just+Love+Coding;Karina+Enjoyer.;Learning+Java+%7C+Dreaming+in+Ideas;GameDev+Collab%3F+Let's+Build." />
 </p>
 
 ---
