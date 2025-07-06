@@ -70,11 +70,11 @@
 
 ### 💬 About Me
 
-👋 Yo! I’m Tohbuu
+👋 Yo! I’m Tohbuu/AyeYou(just my gamer tags)
 📚 Studying Java & front-end tools
-🎮 Passionate about anime, K-pop, Marvel/DC, and GameDev
-🤖 I don’t code without AI. It’s my sensei.
-💞 Let’s collab on something dope
+🎮 Passionate about anime, K-pop, Marvel/DC, or anything and GameDev
+🤖 I love AI integration. So efficient yet effective
+💞 AMAZING
 
 
 ---
