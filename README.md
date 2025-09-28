@@ -35,7 +35,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=FF77C5&center=true&vCenter=true&width=500&lines=Indie+J-Pop+%7C+Lo-fi+Beats+%7C+K-pop+Feels" />
 </p>
 
-> *Sometimes cute. Sometimes shocked. Always coding.*
+> Always coding.*
 
 ---
 
