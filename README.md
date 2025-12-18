@@ -66,27 +66,19 @@
 
 ### 💬 About Me
 
-👋 Yo! I’m Tohbuu/AyeYou(just my gamer tags)
-📚 Studying Java & front-end tools
-🎮 Passionate about anime, K-pop, Marvel/DC, or anything and GameDev
-🤖 I love AI integration. So efficient yet effective
-💞 AMAZING
+"I have not failed. I've just found 10,000 ways that won't work."  -Thomas Edison
+-I love games, coding, learning the linux kernel and its architectures. Not afraid of exploring, tinkering sminkering bolkering 
+whiwhiwhiplash
 
 
 ---
 
-💌 Contact Me (for fun or dev stuff)
+💌 Contact Me (for reference)
 <p align="center"> <a href="mailto:youremail@example.com"> <img src="https://skillicons.dev/icons?i=gmail" height="30" /> </a> <a href="https://github.com/Tohbuu"> <img src="https://skillicons.dev/icons?i=github" height="30" /> </a> <a href="https://linkedin.com/in/yourprofile"> <img src="https://skillicons.dev/icons?i=linkedin" height="30" /> </a> </p>
 
 ---
 
 <p align="center"> <img src="./images/matrix-green.gif" width="500" alt="terminal aesthetic"/> </p>
-
----
-
-🌟 Amazing amirite?
-Its always about Karina fr fr lol :3—
-it fuels my motivation like coffee + Karina 💖
 
 ---
 
